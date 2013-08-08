@@ -1,6 +1,6 @@
 # SWIG demos
 
-These are some demos of including C libraries into different higher-level languages using [SWIG](http://www.swig.org).
+These are some demos of including C libraries into different higher-level languages using [SWIG](http://www.swig.org). They are taken more or less from the [SWIG Tutorial](http://www.swig.org/tutorial.html) and other SWIG documentation.
 
 We currently have the following languages:
 
