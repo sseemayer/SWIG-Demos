@@ -5,6 +5,7 @@ These are some demos of including C libraries into different higher-level langua
 We currently have the following languages:
 
   * Java
+  * Perl
   * Python
   * R
   * Ruby
